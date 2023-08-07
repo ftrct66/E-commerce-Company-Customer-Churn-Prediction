@@ -1,0 +1,11 @@
+,age,gender,region_category,membership_category,joined_through_referral,preferred_offer_types,medium_of_operation,internet_option,days_since_last_login,avg_time_spent,avg_transaction_value,avg_frequency_login_days,points_in_wallet,used_special_discount,offer_application_preference,past_complaint,complaint_status,feedback,churn_risk_score,joining_month
+3479,59,M,Town,Gold Membership,No,Without Offers,Desktop,Wi-Fi,9,395.3,43978.54,0.0,789.6,Yes,Yes,No,Not Applicable,Too many ads,0,11
+9414,26,F,City,Basic Membership,No,Gift Vouchers/Coupons,Desktop,Wi-Fi,16,220.86,33749.09,15.0,521.36,Yes,No,No,Not Applicable,No reason specified,1,4
+15760,49,M,Town,Basic Membership,,Without Offers,Desktop,Wi-Fi,7,153.39,41942.57,22.0,626.28,Yes,No,Yes,Unsolved,No reason specified,1,12
+16668,21,F,Town,Basic Membership,Yes,Gift Vouchers/Coupons,Smartphone,Mobile_Data,19,34.07,47663.39,6.0,611.78,No,Yes,No,Not Applicable,Too many ads,1,3
+17542,62,F,,Basic Membership,Yes,Credit/Debit Card Offers,Smartphone,Wi-Fi,24,200.04,24566.68,16.0,672.93,Yes,No,No,Not Applicable,No reason specified,0,12
+21575,56,M,City,No Membership,No,,Smartphone,Mobile_Data,10,263.62,11435.15,13.0,666.17,Yes,Yes,Yes,Solved in Follow-up,No reason specified,1,9
+23345,36,F,,Premium Membership,No,Credit/Debit Card Offers,Desktop,Wi-Fi,17,0.0,37557.53,13.0,420.3270723124031,Yes,No,No,Not Applicable,No reason specified,0,11
+25826,59,F,,No Membership,,Without Offers,Smartphone,Wi-Fi,10,36.85,28439.25,18.0,661.68,Yes,No,No,Not Applicable,Poor Website,1,2
+26501,49,M,Town,Gold Membership,Yes,Without Offers,Desktop,Wi-Fi,8,732.43,78921.24,26.491388406949188,706.44,Yes,No,No,Not Applicable,Quality Customer Care,0,12
+36438,36,M,,Platinum Membership,No,Gift Vouchers/Coupons,Desktop,Fiber_Optic,8,84.07,98334.89,40.79383531462888,771.45,Yes,No,No,Not Applicable,User Friendly Website,0,11
