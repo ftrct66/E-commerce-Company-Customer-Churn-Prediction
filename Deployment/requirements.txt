@@ -1,0 +1,6 @@
+Pandas
+Joblib
+feature-engine
+Scikit-learn==1.2.2
+Numpy
+Streamlit
